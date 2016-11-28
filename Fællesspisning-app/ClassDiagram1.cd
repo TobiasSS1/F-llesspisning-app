@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Fællesspisning_app.Uge">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAABCAAAAAABAAAA=</HashCode>
+      <FileName>Ugedag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.KundeBestilling">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAECAICA=</HashCode>
+      <FileName>KundeBestilling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.Arbejder">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAgAAAABCAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arbejder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.RelayCommand">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RelayCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.AddTilmeld">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddTilmeld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.RemoveTilmeld">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RemoveTilmeld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.AddArbejder">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddArbejder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.AddUge">
+    <Position X="12.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddUge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.RemoveUge">
+    <Position X="12.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RemoveUge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.RemoveArbejder">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RemoveArbejder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.ViewModel">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>ViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.TilmedListe">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TilmedListe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.ArbejderListe">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArbejderListe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fællesspisning_app.UgeListe">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UgeListe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
